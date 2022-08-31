@@ -15,6 +15,7 @@ ss.onclick=()=>{
 }
 //dd
 //Bisher
+//branch2
 function getTotal() {
     if (price.value !== '') {
         let Res = (+price.value + +taxes.value + +ads.value) - +dis.value;
